@@ -1,3 +1,5 @@
-# srtmerge.github.io
+# srtmerge (forked)
 
-[Sample srt files](https://srtmerge.github.io/sample.zip)
+[Goto the site](https://meigyoku-thmn.github.io/srtmerge/)
+
+[Sample srt files](/sample.zip)
